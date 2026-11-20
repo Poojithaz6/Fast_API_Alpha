@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42f4f4ec-be2c-4043-99e9-251dc2451906" name="Changes" comment="DB integration" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="55d0626c-7c75-4e9f-91e3-1db5e6f5a357" value="" />
+      <entry key="601c20ec-d824-4898-b415-8e46084f8ab4" value="" />
+      <entry key="f0df34e4-a74f-4fb6-a8a7-6ff3d6d28290" value="" />
+    </colors>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Poojithaz6&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Poojithaz6/Fast_API_Alpha.git&quot;,
+    &quot;accountId&quot;: &quot;6b1864b8-11f6-4a01-96fd-f78d1e743c66&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0034006102590005" />
+      <entry key="MS500" value="1.3502980767002513" />
+      <entry key="S2" value="2.166852240283979" />
+      <entry key="S5" value="2.59545118099025" />
+      <entry key="S10" value="2.7831408702208087" />
+      <entry key="S30" value="2.928337201886249" />
+      <entry key="S60" value="3.126666321608396" />
+      <entry key="M2" value="4.1934732115578885" />
+      <entry key="M5" value="10.708395548105567" />
+      <entry key="M10" value="30.18535700615543" />
+      <entry key="M15" value="54.14537529780656" />
+      <entry key="M30" value="116.64513815142443" />
+      <entry key="H1" value="185.77011319660517" />
+      <entry key="H2" value="239.90744793171496" />
+      <entry key="H4" value="274.3159344680239" />
+      <entry key="D1" value="307.7299219584502" />
+      <entry key="W1" value="313.94865609544104" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="2.1275110259097565E-170" />
+      <entry key="S5" value="1.5093085573188368E-68" />
+      <entry key="S10" value="1.5610674329940347E-34" />
+      <entry key="S30" value="8.300882775081401E-12" />
+      <entry key="S60" value="4.122045474813034E-6" />
+      <entry key="M2" value="0.003157488339466117" />
+      <entry key="M5" value="0.20346217570839073" />
+      <entry key="M10" value="0.9172177348760056" />
+      <entry key="M15" value="1.6106194927739552" />
+      <entry key="M30" value="3.1429539115132026" />
+      <entry key="H1" value="4.777390794472627" />
+      <entry key="H2" value="6.094547310518418" />
+      <entry key="H4" value="6.955916067678906" />
+      <entry key="D1" value="7.811384127970278" />
+      <entry key="W1" value="7.97266902206076" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9759625676563" />
+      <entry key="MS500" value="1.3427905951876837" />
+      <entry key="S2" value="2.1637070893554426" />
+      <entry key="S5" value="2.5939149737743437" />
+      <entry key="S10" value="2.782311231777316" />
+      <entry key="S30" value="2.92804481234084" />
+      <entry key="S60" value="3.1265148375299385" />
+      <entry key="M2" value="4.196453615560605" />
+      <entry key="M5" value="10.909493846545324" />
+      <entry key="M10" value="31.096158078014547" />
+      <entry key="M15" value="55.74772690356424" />
+      <entry key="M30" value="119.77910923714639" />
+      <entry key="H1" value="190.54031350955736" />
+      <entry key="H2" value="245.9973036080613" />
+      <entry key="H4" value="281.26914631510084" />
+      <entry key="D1" value="315.5407961609847" />
+      <entry key="W1" value="321.921250678066" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3MN7t5hAxezTTArayWk7FPlPAGT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.Market.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/poojitha/Developer/Python/.venv/bin/python",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Flask/Badic config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Fast_API_Alpha" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ebb3072d7bdf-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.11879.98" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42f4f4ec-be2c-4043-99e9-251dc2451906" name="Changes" comment="" />
+      <created>1795179382394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1795179382394</updated>
+      <workItem from="1795179383407" duration="6246000" />
+    </task>
+    <task id="LOCAL-00001" summary="intial check">
+      <option name="closed" value="true" />
+      <created>1795179761918</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1795179761919</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial set up and syntax">
+      <option name="closed" value="true" />
+      <created>1795183540553</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1795183540553</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial set up and syntax">
+      <option name="closed" value="true" />
+      <created>1795183731314</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1795183731314</updated>
+    </task>
+    <task id="LOCAL-00004" summary="outputs">
+      <option name="closed" value="true" />
+      <created>1795183844466</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1795183844466</updated>
+    </task>
+    <task id="LOCAL-00005" summary="home page from bootstrap">
+      <option name="closed" value="true" />
+      <created>1795185358800</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1795185358800</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added the html template">
+      <option name="closed" value="true" />
+      <created>1795185611151</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1795185611151</updated>
+    </task>
+    <task id="LOCAL-00007" summary="DB integration">
+      <option name="closed" value="true" />
+      <created>1795185923442</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1795185923442</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="intial check" />
+    <MESSAGE value="Initial set up and syntax" />
+    <MESSAGE value="outputs" />
+    <MESSAGE value="home page from bootstrap" />
+    <MESSAGE value="added the html template" />
+    <MESSAGE value="DB integration" />
+    <option name="LAST_COMMIT_MESSAGE" value="DB integration" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Flask/Models and DB/market.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Fast_API_Alpha$Market.coverage" NAME="Market Coverage Results" MODIFIED="1795184690349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flask/Badic config" />
+  </component>
+</project>
