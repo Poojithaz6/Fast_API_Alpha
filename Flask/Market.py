@@ -4,6 +4,6 @@ app=Flask(__name__)
 def greet():
     return '<h1>Hello world</h1>'
 
-@app.route('/about')
-def about():
-    return '<h1> About page my luv</h1>'
+@app.route('/about/<user>')
+def about(user):
+    return f'<h1> About page my of my {user} luv</h1>'
